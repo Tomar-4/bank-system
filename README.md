@@ -29,13 +29,3 @@ This is a beginner-friendly Python project that simulates a simple banking syste
 
 ---
 
-## 🛠️ How to Run
-
-### 🔁 Requirements
-- Python 3.x installed
-
-### ▶️ Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/bank-system.git
-   cd bank-system
